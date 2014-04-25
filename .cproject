@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?>
+
+<cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="org.eclipse.cdt.core.default.config.1758903934">
+			<storageModule buildSystemId="org.eclipse.cdt.core.defaultConfigDataProvider" id="org.eclipse.cdt.core.default.config.1758903934" moduleId="org.eclipse.cdt.core.settings" name="Configuration">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings">
+				<externalSettings containerId="org.coocox.ExternalSettings" factoryId="org.eclipse.cdt.core.extension.container.factory">
+					<externalSetting>
+						<entry flags="" kind="includePath" name="F:\CoIDE\gcc\Sourcery G++ Lite\arm-none-eabi\include"/>
+						<entry flags="" kind="includePath" name="."/>
+						<entry flags="" kind="includePath" name="CoOS/portable"/>
+						<entry flags="" kind="includePath" name="CoOS"/>
+						<entry flags="" kind="includePath" name="CoOS/kernel"/>
+						<entry flags="" kind="includePath" name="LPC111x_Lib"/>
+						<entry flags="" kind="includePath" name="LPC111x_Lib/include"/>
+						<entry flags="" kind="includePath" name="cmsis_lpc11xx"/>
+						<entry flags="" kind="includePath" name="cmsis_core"/>
+						<entry flags="" kind="macro" name="__GNUC__" value=""/>
+						<entry flags="" kind="macro" name="LPC1114x301" value=""/>
+					</externalSetting>
+				</externalSettings>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.language.mapping"/>
+			<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+			<storageModule moduleId="org.eclipse.cdt.core.pathentry">
+				<pathentry kind="src" path=""/>
+				<pathentry include="F:/CoIDE/gcc/Sourcery G++ Lite/arm-none-eabi/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Nagaraj/Downloads/mX-LPC11U14-Stamp_CoIDE_n_Keil_WS(1)/mX-LPC11U14-Stamp_CoIDE_WS/mX-LPC11U14_blinky" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Nagaraj/Downloads/mX-LPC11U14-Stamp_CoIDE_n_Keil_WS(1)/mX-LPC11U14-Stamp_CoIDE_WS/mX-LPC11U14_blinky/CoOS/portable" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Nagaraj/Downloads/mX-LPC11U14-Stamp_CoIDE_n_Keil_WS(1)/mX-LPC11U14-Stamp_CoIDE_WS/mX-LPC11U14_blinky/CoOS" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Nagaraj/Downloads/mX-LPC11U14-Stamp_CoIDE_n_Keil_WS(1)/mX-LPC11U14-Stamp_CoIDE_WS/mX-LPC11U14_blinky/CoOS/kernel" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Nagaraj/Downloads/mX-LPC11U14-Stamp_CoIDE_n_Keil_WS(1)/mX-LPC11U14-Stamp_CoIDE_WS/mX-LPC11U14_blinky/LPC111x_Lib" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Nagaraj/Downloads/mX-LPC11U14-Stamp_CoIDE_n_Keil_WS(1)/mX-LPC11U14-Stamp_CoIDE_WS/mX-LPC11U14_blinky/LPC111x_Lib/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Nagaraj/Downloads/mX-LPC11U14-Stamp_CoIDE_n_Keil_WS(1)/mX-LPC11U14-Stamp_CoIDE_WS/mX-LPC11U14_blinky/cmsis_lpc11xx" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Users/Nagaraj/Downloads/mX-LPC11U14-Stamp_CoIDE_n_Keil_WS(1)/mX-LPC11U14-Stamp_CoIDE_WS/mX-LPC11U14_blinky/cmsis_core" kind="inc" path="" system="true"/>
+				<pathentry kind="mac" name="__GNUC__" path="" value=""/>
+				<pathentry kind="mac" name="LPC1114x301" path="" value=""/>
+				<pathentry kind="out" path=""/>
+			</storageModule>
+		</cconfiguration>
+	</storageModule>
+</cproject>

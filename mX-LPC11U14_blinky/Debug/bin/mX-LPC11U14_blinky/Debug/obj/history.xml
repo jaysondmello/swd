@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m0 -mthumb -Wall -ffunction-sections -g -O0 -c -DLPC1114x301 -I..\..\..\workspace -I..\..\..\workspace\mX-LPC11U14_blinky\cmsis_core -I..\..\..\workspace\mX-LPC11U14_blinky\cmsis_lpc11xx -I..\..\..\workspace\mX-LPC11U14_blinky\LPC111x_Lib\include -I..\..\..\workspace\mX-LPC11U14_blinky -I..\..\..\workspace\mX-LPC11U14_blinky\LPC111x_Lib">
+      <target file="core_cm0.o" lastModified="144cc38f83c">
+         <source file="..\..\..\..\..\..\cmsis_core\core_cm0.c" lastModified="12eb420a650"/>
+      </target>
+      <target file="lpc11xx_syscon.o" lastModified="144cc38f52d">
+         <source file="..\..\..\..\..\..\LPC111x_Lib\source\lpc11xx_syscon.c" lastModified="12f91a4b020"/>
+      </target>
+      <target file="system_LPC11Uxx.o" lastModified="144cc38f42a">
+         <source file="..\..\..\..\..\..\cmsis_lpc11xx\system_LPC11Uxx.c" lastModified="12f0bcdb000"/>
+      </target>
+      <target file="startup_lpc11xx.o" lastModified="144cc38f762">
+         <source file="..\..\..\..\..\..\cmsis_lpc11xx\startup\startup_lpc11xx.c" lastModified="12eb420a650"/>
+      </target>
+      <target file="main.o" lastModified="144ed3d9367">
+         <source file="..\..\..\..\..\..\main.c" lastModified="144ce8bf11d"/>
+      </target>
+      <target file="syscalls.o" lastModified="144cc38f685">
+         <source file="..\..\..\..\..\..\syscalls\syscalls.c" lastModified="12eb420a650"/>
+      </target>
+   </processor>
+</history>

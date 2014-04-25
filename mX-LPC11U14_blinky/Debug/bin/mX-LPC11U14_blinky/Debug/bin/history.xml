@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=mX-LPC11U14_blinky.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\SWD_RevA -TC:\CooCox\CoIDE\configuration\ProgramData\SWD_RevA/arm-gcc-link.ld -g">
+      <target file="mX-LPC11U14_blinky.elf" lastModified="144ed3d981b">
+         <source file="..\obj\main.o" lastModified="144ed3d9367"/>
+         <source file="..\obj\system_LPC11Uxx.o" lastModified="144cc38f42a"/>
+         <source file="..\obj\lpc11xx_syscon.o" lastModified="144cc38f52d"/>
+         <source file="..\obj\syscalls.o" lastModified="144cc38f685"/>
+         <source file="..\obj\startup_lpc11xx.o" lastModified="144cc38f762"/>
+         <source file="..\obj\core_cm0.o" lastModified="144cc38f83c"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\..\..\Users\Rohan\Desktop\LPC\mX-LPC11U14-Stamp_CoIDE_n_Keil_WS\mX-LPC11U14-Stamp_CoIDE_WS\mX-LPC11U14_blinky\LPC111x_Lib /I..\..\..\..\..\Users\Rohan\Desktop\LPC\mX-LPC11U14-Stamp_CoIDE_n_Keil_WS\mX-LPC11U14-Stamp_CoIDE_WS\mX-LPC11U14_blinky\cmsis_core /I..\..\..\..\..\Users\Rohan\Desktop\LPC\mX-LPC11U14-Stamp_CoIDE_n_Keil_WS\mX-LPC11U14-Stamp_CoIDE_WS /I..\..\..\..\..\Users\Rohan\Desktop\LPC\mX-LPC11U14-Stamp_CoIDE_n_Keil_WS\mX-LPC11U14-Stamp_CoIDE_WS\mX-LPC11U14_blinky /I..\..\..\..\..\Users\Rohan\Desktop\LPC\mX-LPC11U14-Stamp_CoIDE_n_Keil_WS\mX-LPC11U14-Stamp_CoIDE_WS\mX-LPC11U14_blinky\cmsis_lpc11xx /I..\..\..\..\..\Users\Rohan\Desktop\LPC\mX-LPC11U14-Stamp_CoIDE_n_Keil_WS\mX-LPC11U14-Stamp_CoIDE_WS\mX-LPC11U14_blinky\LPC111x_Lib\include">
+      <source file="..\..\..\LPC111x_Lib\source\lpc11xx_syscon.c" lastModified="12f91a4b020">
+         <include file="..\..\..\LPC111x_Lib\include\lpc11xx_syscon.h"/>
+         <include file="..\..\..\LPC111x_Lib\include\lpc11xx_libcfg.h"/>
+      </source>
+      <source file="..\..\..\cmsis_core\core_cm0.h" lastModified="12eb420ae20">
+      </source>
+      <source file="..\..\..\cmsis_core\core_cm0.c" lastModified="12eb420aa38">
+      </source>
+      <source file="..\..\..\cmsis_lpc11xx\system_LPC11Uxx.h" lastModified="12eddc0bf40">
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="12eb420b5f0">
+      </source>
+      <source file="..\..\..\main.c" lastModified="12eb420a650">
+      </source>
+      <source file="..\..\..\cmsis_lpc11xx\startup\startup_lpc11xx.c" lastModified="12eb420a650">
+      </source>
+      <source file="..\..\..\cmsis_lpc11xx\system_LPC11Uxx.c" lastModified="12f0bcdb3e8">
+         <include file="..\..\..\cmsis_lpc11xx\LPC11Uxx.h"/>
+         <include file="..\..\..\cmsis_lpc11xx\power_api.h"/>
+      </source>
+      <source file="..\..\..\LPC111x_Lib\include\lpc11xx_syscon.h" lastModified="12f0bcd69b0">
+         <include file="..\..\..\cmsis_lpc11xx\LPC11Uxx.h"/>
+         <include file="..\..\..\LPC111x_Lib\include\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lpc11xx\LPC11Uxx.h" lastModified="12f0bcd2b30">
+         <include file="..\..\..\cmsis_core\core_cm0.h"/>
+         <include file="..\..\..\cmsis_lpc11xx\system_LPC11Uxx.h"/>
+      </source>
+      <source file="..\..\..\LPC111x_Lib\include\lpc_types.h" lastModified="12eb420aa38">
+      </source>
+      <source file="..\..\..\cmsis_lpc11xx\power_api.h" lastModified="12eddc26520">
+      </source>
+      <source file="..\..\..\LPC111x_Lib\include\lpc11xx_libcfg.h" lastModified="12eb420a650">
+         <include file="..\..\..\LPC111x_Lib\include\lpc_types.h"/>
+      </source>
+      <source file="..\..\..\example\Blink.c" lastModified="12f0bcd88f0">
+         <include file="..\..\..\LPC111x_Lib\include\lpc11xx_syscon.h"/>
+         <include file="..\..\..\cmsis_lpc11xx\LPC11Uxx.h"/>
+      </source>
+   </includePath>
+</dependencies>
